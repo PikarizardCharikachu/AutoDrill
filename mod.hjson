@@ -1,6 +1,6 @@
-displayName: "AutoDrill"
+displayName: "AutoDrillCustom"
 name: "auto-drill"
-author: "Pointifix"
+author: "Pointifix, custom attempt. do not download"
 main: "autodrill.AutoDrill"
 description: "Adds tools for automatically filling resource patches with drills"
 version: 1.0
